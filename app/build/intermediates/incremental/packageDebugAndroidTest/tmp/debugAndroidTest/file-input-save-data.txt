@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 17 10:39:22 ICT 2023
+0.base=C\:\\Users\\Asus\\AndroidStudioProjects\\SwitchLayout-List-to-Grid-master\\SwitchLayout\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

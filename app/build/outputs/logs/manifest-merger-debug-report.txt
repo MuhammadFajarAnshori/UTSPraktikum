@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\0eab579141e8e32b55ac446f7d93c721\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4047eb6a31768068881264819302e5a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\06e96e20025d4ad089e484c85e2a670e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\cc3eb2c2f14cccc57bc93dd69a4dec22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\819532c33a007cbff9e0d1d192840aff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\150de0a18c284c3e6ebc9ae5ca6ab623\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\958b012038de277638220287aaa4047c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\348ecb687e1c7e8a5114122d20a5fd92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\88220d70b4b5ac36fbd06d74061a69e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\97373a654b5d4ad69d084155e3dd0183\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\99ed82e7464762ea933fef1ea40df042\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9016e4b88e890506cd9b7bcfead944cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\1b91a7d5d9d9682bc71e07d0ce46b050\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\929b9c6a59b47b7e291fe23f56b39908\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5009c9de317479120a85252f1247e194\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a3bba1959e031a2ee164d57ce1e157\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b5544b2eec72968adc402242fdc3dd25\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\af9aa4837dd4594cea9f04036b277f35\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\69e79b593ebd04f052ce5e29d8278ecb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ec61520611c52518688ccbf2ecb7a928\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\35a156dcc1ce6ea5ac44d3fe8ad9f83e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\425e3bb44aafd837f61769567eec4686\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8206afebf5616f1cd02e629243d19cc3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3738a43b9c4af40422a4844cb2a789dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\a86a5d765c515c7c7c24a73ae9de3943\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\1a4c3123cb9ef6922d46ec0a6c18ee07\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ba57aa4c404420ed15934359adf2ba41\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5335c87c574a206943f84b7c258b3d43\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\06e96e20025d4ad089e484c85e2a670e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\06e96e20025d4ad089e484c85e2a670e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b5544b2eec72968adc402242fdc3dd25\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b5544b2eec72968adc402242fdc3dd25\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\af9aa4837dd4594cea9f04036b277f35\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\af9aa4837dd4594cea9f04036b277f35\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b5544b2eec72968adc402242fdc3dd25\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.azhar.switchlayout.MainActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\0eab579141e8e32b55ac446f7d93c721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\0eab579141e8e32b55ac446f7d93c721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4047eb6a31768068881264819302e5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4047eb6a31768068881264819302e5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\06e96e20025d4ad089e484c85e2a670e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\06e96e20025d4ad089e484c85e2a670e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\cc3eb2c2f14cccc57bc93dd69a4dec22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\cc3eb2c2f14cccc57bc93dd69a4dec22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\819532c33a007cbff9e0d1d192840aff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\819532c33a007cbff9e0d1d192840aff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\150de0a18c284c3e6ebc9ae5ca6ab623\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\150de0a18c284c3e6ebc9ae5ca6ab623\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\958b012038de277638220287aaa4047c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\958b012038de277638220287aaa4047c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\348ecb687e1c7e8a5114122d20a5fd92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\348ecb687e1c7e8a5114122d20a5fd92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\88220d70b4b5ac36fbd06d74061a69e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\88220d70b4b5ac36fbd06d74061a69e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\97373a654b5d4ad69d084155e3dd0183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\97373a654b5d4ad69d084155e3dd0183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\99ed82e7464762ea933fef1ea40df042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\99ed82e7464762ea933fef1ea40df042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9016e4b88e890506cd9b7bcfead944cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9016e4b88e890506cd9b7bcfead944cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\1b91a7d5d9d9682bc71e07d0ce46b050\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\1b91a7d5d9d9682bc71e07d0ce46b050\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\929b9c6a59b47b7e291fe23f56b39908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\929b9c6a59b47b7e291fe23f56b39908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5009c9de317479120a85252f1247e194\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5009c9de317479120a85252f1247e194\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a3bba1959e031a2ee164d57ce1e157\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a3bba1959e031a2ee164d57ce1e157\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b5544b2eec72968adc402242fdc3dd25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b5544b2eec72968adc402242fdc3dd25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\af9aa4837dd4594cea9f04036b277f35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\af9aa4837dd4594cea9f04036b277f35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\69e79b593ebd04f052ce5e29d8278ecb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\69e79b593ebd04f052ce5e29d8278ecb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ec61520611c52518688ccbf2ecb7a928\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ec61520611c52518688ccbf2ecb7a928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\35a156dcc1ce6ea5ac44d3fe8ad9f83e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\35a156dcc1ce6ea5ac44d3fe8ad9f83e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\425e3bb44aafd837f61769567eec4686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\425e3bb44aafd837f61769567eec4686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8206afebf5616f1cd02e629243d19cc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8206afebf5616f1cd02e629243d19cc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3738a43b9c4af40422a4844cb2a789dd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3738a43b9c4af40422a4844cb2a789dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\a86a5d765c515c7c7c24a73ae9de3943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\a86a5d765c515c7c7c24a73ae9de3943\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\1a4c3123cb9ef6922d46ec0a6c18ee07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\1a4c3123cb9ef6922d46ec0a6c18ee07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ba57aa4c404420ed15934359adf2ba41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ba57aa4c404420ed15934359adf2ba41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5335c87c574a206943f84b7c258b3d43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5335c87c574a206943f84b7c258b3d43\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\SwitchLayout-List-to-Grid-master\SwitchLayout\app\src\main\AndroidManifest.xml
